@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/2dd5e0e3-56eb-45f4-8eb1-fc79f6db8536/thumbnail">
-</p>
-
 # Nikolai Penkev
 **Software Development Engineer in Test (SDET) / QA Engineer**
 
