@@ -23,22 +23,29 @@ SDET with hands-on experience in automated and manual testing for web applicatio
 
 ## Experience
 
-**Senior Automation Engineer — Pepperstone (Limassol, Cyprus)** [![Pepperstone](https://img.shields.io/badge/Pepperstone-Website-blue?style=flat-square)](https://www.pepperstone.com)  
-![Nov%203%2C%202025%E2%80%93Present](https://img.shields.io/badge/Nov%203%2C%202025%E2%80%93Present-blue?style=for-the-badge&logo=calendar)  
-- Introduced mobile automation for the mobile platform and onboarded the team to best practices (test design, test IDs).
-- Advocated and enabled shift-left testing by helping developers write tests during development.
-- Implemented CI/CD pipelines running on BrowserStack, triggered via webhooks, reporting run status to Slack and uploading full reports to AIO Tests in Jira.
-- Built the automation repository from the ground up, defining quality gates and contribution rules aligned with Maestro.
-- Utilized MCP and agent setups to accelerate test development and execution.
+**Senior Test Automation Engineer — Pepperstone (Limassol, Cyprus)** [![Pepperstone](https://img.shields.io/badge/Pepperstone-Website-blue?style=flat-square)](https://www.pepperstone.com)  
+![Nov%202025%E2%80%93Present](https://img.shields.io/badge/Nov%202025%E2%80%93Present-blue?style=for-the-badge&logo=calendar)  
+As part of a cross-functional Agile team, responsible for owning and driving the mobile test automation effort for a complex mobile application. Ensures product quality by defining and implementing a comprehensive mobile automation strategy, with a strong focus on reliability, scalability, and maintainability.
+
+- Designing, building, and maintaining the mobile automation framework and repository from the ground up using Maestro.
+- Defining automation standards, test structure, and best practices for mobile end-to-end testing.
+- Developing and maintaining automated test coverage for critical user flows, smoke, and regression scenarios.
+- Integrating automated tests into the CI/CD pipeline to support continuous validation of mobile builds.
+- Managing test stability by addressing flaky tests, environment dependencies, and test data requirements.
+- Collaborating closely with developers, product managers, and other stakeholders to align on acceptance criteria, quality goals, and release readiness.
+- Acting as the primary owner of mobile automation tooling, processes, and technical direction within the team.
 
 
-**Software Developer in Test — Merkle (Aarhus)** [![Merkle](https://img.shields.io/badge/Merkle-Website-blue?style=flat-square)](https://www.merkleinc.com)  
+**Software Development Engineer in Test — Merkle Danmark (Aarhus)** [![Merkle](https://img.shields.io/badge/Merkle-Website-blue?style=flat-square)](https://www.merkleinc.com)  
 ![Apr%202023%E2%80%93Jun%202025](https://img.shields.io/badge/Apr%202023%E2%80%93Jun%202025-blue?style=for-the-badge&logo=calendar)  
-- Built and maintained automated test frameworks  
-- Automated manual test cases to reduce repetitive work  
-- Performed API testing (manual & automated in Ruby/TypeScript)  
-- Improved quality via unit, integration, and performance testing  
-- Collaborated closely with developers and mentored junior teammates  
+As part of a cross-functional Agile team and across multiple projects, helped ensure the quality of complex B2B e-commerce solutions across web and mobile platforms through both exploratory and automated testing.
+
+- Designed, maintained, and expanded automated test suites using Ruby/Selenium and Playwright with TypeScript.
+- Performed in-sprint and exploratory testing to validate new features and user journeys across browsers and devices.
+- Conducted API testing with Postman and Proxyman, including validation of RESTful services and debugging network traffic.
+- Collaborated closely with other testers, developers, product owners, and designers in an Agile setup, applying BDD and TDD practices.
+- Supported test strategy, bug triage, and risk assessment within client-focused delivery teams.
+- Actively participated in knowledge sharing within the QA practice group, mentoring colleagues and advocating for scalable testing solutions.
 
 **QA Engineer — Waste Hero (Aarhus)** [![WasteHero](https://img.shields.io/badge/WasteHero-Website-blue?style=flat-square)](https://www.wastehero.com)  
 ![Jan%202022%E2%80%93Apr%202023](https://img.shields.io/badge/Jan%202022%E2%80%93Apr%202023-blue?style=for-the-badge&logo=calendar)  
