@@ -22,7 +22,7 @@ SDET with hands-on experience in automated and manual testing for web applicatio
 ## Experience
 
 **Senior Automation Engineer — Pepperstone (Limassol, Cyprus)** [![Pepperstone](https://img.shields.io/badge/Pepperstone-Website-blue?style=flat-square)](https://www.pepperstone.com)  
-*Nov 3, 2025 – Present* ![Nov%203%2C%202025%E2%80%93Present](https://img.shields.io/badge/Nov%203%2C%202025%E2%80%93Present-informational?style=flat&logo=calendar)  
+![Nov%203%2C%202025%E2%80%93Present](https://img.shields.io/badge/Nov%203%2C%202025%E2%80%93Present-blue?style=for-the-badge&logo=calendar)  
 - Introduced mobile automation for the mobile platform and onboarded the team to best practices (test design, test IDs).
 - Advocated and enabled shift-left testing by helping developers write tests during development.
 - Implemented CI/CD pipelines running on BrowserStack, triggered via webhooks, reporting run status to Slack and uploading full reports to AIO Tests in Jira.
@@ -31,7 +31,7 @@ SDET with hands-on experience in automated and manual testing for web applicatio
 
 
 **Software Developer in Test — Merkle (Aarhus)** [![Merkle](https://img.shields.io/badge/Merkle-Website-blue?style=flat-square)](https://www.merkleinc.com)  
-*Apr 2023 – May 2025* ![Apr%202023%E2%80%93May%202025](https://img.shields.io/badge/Apr%202023%E2%80%93May%202025-informational?style=flat&logo=calendar)  
+![Apr%202023%E2%80%93May%202025](https://img.shields.io/badge/Apr%202023%E2%80%93May%202025-blue?style=for-the-badge&logo=calendar)  
 - Built and maintained automated test frameworks  
 - Automated manual test cases to reduce repetitive work  
 - Performed API testing (manual & automated in Ruby/TypeScript)  
@@ -39,13 +39,13 @@ SDET with hands-on experience in automated and manual testing for web applicatio
 - Collaborated closely with developers and mentored junior teammates  
 
 **QA Engineer — Waste Hero (Aarhus)** [![WasteHero](https://img.shields.io/badge/WasteHero-Website-blue?style=flat-square)](https://www.wastehero.com)  
-*Jan 2022 – Apr 2023* ![Jan%202022%E2%80%93Apr%202023](https://img.shields.io/badge/Jan%202022%E2%80%93Apr%202023-informational?style=flat&logo=calendar)  
+![Jan%202022%E2%80%93Apr%202023](https://img.shields.io/badge/Jan%202022%E2%80%93Apr%202023-blue?style=for-the-badge&logo=calendar)  
 - End-to-end testing for product releases  
 - Maintained and updated test case repositories  
 - Defined testing strategies and prioritized defects  
 
 **Quality Assurance Tester — Salling Group (Aarhus)** [![SallingGroup](https://img.shields.io/badge/SallingGroup-Website-blue?style=flat-square)](https://www.sallinggroup.com)  
-*Sep 2020 – Sep 2021* ![Sep%202020%E2%80%93Sep%202021](https://img.shields.io/badge/Sep%202020%E2%80%93Sep%202021-informational?style=flat&logo=calendar)  
+![Sep%202020%E2%80%93Sep%202021](https://img.shields.io/badge/Sep%202020%E2%80%93Sep%202021-blue?style=for-the-badge&logo=calendar)  
 - Designed and executed test suites for core functionality  
 - Improved defect tracking and validation workflows  
 - Created testing protocols for non-technical users  
