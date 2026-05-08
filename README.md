@@ -3,7 +3,7 @@
 
 SDET with hands-on experience in automated and manual testing for web applications and APIs. Strong focus on test automation, quality processes, and close collaboration with development teams to ensure reliable, high-quality software.
 
-• ≈ 5 years, 2 months professional experience (62 months across roles, deduplicated)
+
 
 ---
 
