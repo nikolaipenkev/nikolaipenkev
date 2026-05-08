@@ -7,18 +7,13 @@ SDET with hands-on experience in automated and manual testing for web applicatio
 
 ## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
-![Playwright](https://img.shields.io/badge/Playwright-111827?style=for-the-badge) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge) ![Appium](https://img.shields.io/badge/Appium-02A3E9?style=for-the-badge) ![Watir](https://img.shields.io/badge/Watir-CC0000?style=for-the-badge) ![Maestro](https://img.shields.io/badge/Maestro-4BAF50?style=for-the-badge)
-
+<p align="center">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)<br>
+![Playwright](https://img.shields.io/badge/Playwright-111827?style=for-the-badge) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge) ![Appium](https://img.shields.io/badge/Appium-02A3E9?style=for-the-badge) ![Watir](https://img.shields.io/badge/Watir-CC0000?style=for-the-badge) ![Maestro](https://img.shields.io/badge/Maestro-4BAF50?style=for-the-badge)<br>
 ![Gherkin](https://img.shields.io/badge/Gherkin-CB416B?style=for-the-badge) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+</p>
 
-- **Languages:** JavaScript, TypeScript, Python, Ruby  
-- **Automation:** Playwright, Cypress, Selenium, Appium, Watir, Maestro  
-- **API Testing:** Postman, Swagger  
-- **BDD / Spec:** Gherkin  
-- **Frameworks:** Pytest  
-- **CI/CD:** GitHub Actions  
+<p align="center"><em>Core: Test automation • Mobile automation • CI/CD • BDD</em></p>
 
 ---
 
