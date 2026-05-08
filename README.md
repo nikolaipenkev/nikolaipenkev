@@ -1,7 +1,7 @@
 # Nikolai Penkev
 **Software Development Engineer in Test (SDET) / QA Engineer**
 
-SDET with hands-on experience in automated and manual testing for web applications and APIs. Strong focus on test automation, quality processes, and close collaboration with development teams to ensure reliable, high-quality software.
+SDET with hands-on experience in automated and manual testing for web, mobile applications and APIs. Strong focus on test automation, quality processes, and close collaboration with development teams to ensure reliable, high-quality software.
 
 
 
