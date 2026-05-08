@@ -3,6 +3,8 @@
 
 SDET with hands-on experience in automated and manual testing for web applications and APIs. Strong focus on test automation, quality processes, and close collaboration with development teams to ensure reliable, high-quality software.
 
+• ≈ 5 years, 2 months professional experience (62 months across roles, deduplicated)
+
 ---
 
 ## Tech Stack
@@ -39,7 +41,7 @@ SDET with hands-on experience in automated and manual testing for web applicatio
 - Collaborated closely with developers and mentored junior teammates  
 
 **QA Engineer — Waste Hero (Aarhus)** [![WasteHero](https://img.shields.io/badge/WasteHero-Website-blue?style=flat-square)](https://www.wastehero.com)  
-![Jan%202022%E2%80%93Apr%202023](https://img.shields.io/badge/Jan%202022%E2%80%93Apr%202023-blue?style=for-the-badge&logo=calendar)  
+![Jan%202022%E2%80%93Jun%202023](https://img.shields.io/badge/Jan%202022%E2%80%93Jun%202023-blue?style=for-the-badge&logo=calendar)  
 - End-to-end testing for product releases  
 - Maintained and updated test case repositories  
 - Defined testing strategies and prioritized defects  
