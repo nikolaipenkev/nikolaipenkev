@@ -68,7 +68,7 @@ Software Development (Java, UML), Data Structures & Algorithms, Scrum/XP, Unity,
 ---
 
 ## Links
-[![GitHub](https://img.shields.io/badge/GitHub-%40nikolai--penkev-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikolai-penkev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikolai-penkev/) [![CV](https://img.shields.io/badge/CV-Download-brightgreen?style=for-the-badge&logo=readthedocs)](https://bold.pro/my/nikolai-penkev/397r)
+[![GitHub](https://img.shields.io/badge/GitHub-%40nikolai--penkev-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikolai-penkev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikolai-penkev/) [![CV](https://img.shields.io/badge/CV-Download-brightgreen?style=for-the-badge&logo=readthedocs)](https://bold.pro/my/nikolai-penkev/397r) [![Live CV](https://img.shields.io/badge/Live%20CV-Open-blueviolet?style=for-the-badge&logo=googlechrome)](cv.html)
 
 ---
 
