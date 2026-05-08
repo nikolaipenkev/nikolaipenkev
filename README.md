@@ -33,7 +33,7 @@ SDET with hands-on experience in automated and manual testing for web applicatio
 
 
 **Software Developer in Test — Merkle (Aarhus)** [![Merkle](https://img.shields.io/badge/Merkle-Website-blue?style=flat-square)](https://www.merkleinc.com)  
-![Apr%202023%E2%80%93May%202025](https://img.shields.io/badge/Apr%202023%E2%80%93May%202025-blue?style=for-the-badge&logo=calendar)  
+![Apr%202023%E2%80%93Jun%202025](https://img.shields.io/badge/Apr%202023%E2%80%93Jun%202025-blue?style=for-the-badge&logo=calendar)  
 - Built and maintained automated test frameworks  
 - Automated manual test cases to reduce repetitive work  
 - Performed API testing (manual & automated in Ruby/TypeScript)  
@@ -41,7 +41,7 @@ SDET with hands-on experience in automated and manual testing for web applicatio
 - Collaborated closely with developers and mentored junior teammates  
 
 **QA Engineer — Waste Hero (Aarhus)** [![WasteHero](https://img.shields.io/badge/WasteHero-Website-blue?style=flat-square)](https://www.wastehero.com)  
-![Jan%202022%E2%80%93Jun%202023](https://img.shields.io/badge/Jan%202022%E2%80%93Jun%202023-blue?style=for-the-badge&logo=calendar)  
+![Jan%202022%E2%80%93Apr%202023](https://img.shields.io/badge/Jan%202022%E2%80%93Apr%202023-blue?style=for-the-badge&logo=calendar)  
 - End-to-end testing for product releases  
 - Maintained and updated test case repositories  
 - Defined testing strategies and prioritized defects  
