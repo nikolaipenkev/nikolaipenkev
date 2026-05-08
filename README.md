@@ -72,3 +72,11 @@ Software Development (Java, UML), Data Structures & Algorithms, Scrum/XP, Unity,
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikolai-penkev/)  
 - LinkedIn: https://www.linkedin.com/in/nikolai-penkev/  
 - CV: https://bold.pro/my/nikolai-penkev/397r
+
+---
+
+## Contact
+[![Email Me](https://img.shields.io/badge/Email-Contact%20Nikolai-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikolaipenkev@gmail.com)
+
+Alternatively, obfuscated: nikolaipenkev [at] gmail [dot] com
+
