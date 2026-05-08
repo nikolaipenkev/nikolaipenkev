@@ -7,14 +7,23 @@ SDET with hands-on experience in automated and manual testing for web applicatio
 
 ## Tech Stack
 - **Languages:** JavaScript, TypeScript, Python, Ruby  
-- **Automation:** Playwright, Cypress, Selenium  
+- **Automation:** Playwright, Cypress, Selenium, Appium, Watir, Maestro  
 - **API Testing:** Postman, Swagger  
+- **BDD / Spec:** Gherkin  
 - **Frameworks:** Pytest  
 - **CI/CD:** GitHub Actions  
 
 ---
 
 ## Experience
+
+**Senior Automation Engineer — Pepperstone (Limassol, Cyprus)**
+*Nov 3, 2025 – Present*
+- Introduced mobile automation for the mobile platform and onboarded the team to best practices (test design, test IDs).
+- Advocated and enabled shift-left testing by helping developers write tests during development.
+- Implemented CI/CD pipelines running on BrowserStack, triggered via webhooks, reporting run status to Slack and uploading full reports to AIO Tests in Jira.
+- Built the automation repository from the ground up, defining quality gates and contribution rules aligned with Maestro.
+- Utilized MCP and agent setups to accelerate test development and execution.
 
 **Software Developer in Test — Merkle (Aarhus)**  
 *Apr 2023 – May 2025*  
