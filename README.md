@@ -23,7 +23,7 @@ SDET with hands-on experience in automated and manual testing for web applicatio
 
 **Senior Automation Engineer — Pepperstone (Limassol, Cyprus)** [![Pepperstone](https://img.shields.io/badge/Pepperstone-Website-blue?style=flat-square)](https://www.pepperstone.com)  
 *Nov 3, 2025 – Present* ![Nov%203%2C%202025%E2%80%93Present](https://img.shields.io/badge/Nov%203%2C%202025%E2%80%93Present-informational?style=flat&logo=calendar)  
-- Introduced mobile & web automation across platforms and onboarded the team to best practices (test design, test IDs).
+- Introduced mobile automation for the mobile platform and onboarded the team to best practices (test design, test IDs).
 - Advocated and enabled shift-left testing by helping developers write tests during development.
 - Implemented CI/CD pipelines running on BrowserStack, triggered via webhooks, reporting run status to Slack and uploading full reports to AIO Tests in Jira.
 - Built the automation repository from the ground up, defining quality gates and contribution rules aligned with Maestro.
